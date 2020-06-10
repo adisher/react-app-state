@@ -1,0 +1,15 @@
+.room, body, #root, html{
+    height: 100vh;
+    margin: 0;
+}
+
+
+.lit{
+    background-color: white;
+    color: black;
+}
+
+.dark{
+    background-color: rgba(0, 0, 0, 0.664);
+    color: white;
+}
