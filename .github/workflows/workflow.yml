@@ -33,4 +33,4 @@ jobs:
         run: npm install -g surge
       
       - name: Run surge
-        run: surge ./build adisher-react-state.surge.sh --token ${{ secrets.SURGE_TOKEN_REACT }}
+        run: surge ./build adilsher-react-state.surge.sh --token ${{ secrets.SURGE_TOKEN }}
